@@ -3,7 +3,7 @@
 DS2000 Spring 2022 Homework 6
 Benjamin Teixeira 04/01/22
     
-Filename: wheel.py
+Filename: wheel_of_fortune.py
     
 Description: Helping professor cheat on Wheel! Of! Fortune!
     
