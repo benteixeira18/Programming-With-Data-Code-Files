@@ -3,7 +3,7 @@
 DS2000 Spring 2022
 Benjamin Teixeira
     
-Filename: tottenham_2.py
+Filename: tottenham_stats.py
     
 Description:  reporting tottenham's 5 season stats (revision)
     
