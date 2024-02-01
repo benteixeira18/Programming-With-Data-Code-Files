@@ -3,7 +3,7 @@
 DS2000 Spring 2022
 Benjamin Teixeira
     
-Filename: practice_week6.py
+Filename: practice.py
     
 Description: revising practicum
 
