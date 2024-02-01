@@ -3,7 +3,7 @@
 DS2000 Spring 2022
 Benjamin Teixeira
     
-Filename: sentiment_2.py
+Filename: covid_sentiment.py
     
 Description: gathering, analyzing & visualizing NEU COVID reddit sentiment
     
