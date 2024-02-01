@@ -3,7 +3,7 @@
 DS2000 Spring 2022
 Benjamin Teixeira
     
-Filename: running.py
+Filename: running_amount.py
     
 Description: reporting which Khoury professor ran the most amount 
 of days in January and how many days they ran
