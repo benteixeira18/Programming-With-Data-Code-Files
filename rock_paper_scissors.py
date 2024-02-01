@@ -3,7 +3,7 @@
 DS2000 Spring 2022
 Benjamin Teixeira
     
-Filename: rock.py
+Filename: rock_paper_scissors.py
     
 Description: determining who will win rock, paper, scissors, shoot
 for the last Khoury Dunkin' coffee!
