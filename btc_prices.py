@@ -3,7 +3,7 @@
 DS2001 Weekly Exercise
 Benjamin Teixeira
     
-Filename: week4.py
+Filename: btc_prices.py
     
 Description: analyzing Jan 2021 BTC prices
     
