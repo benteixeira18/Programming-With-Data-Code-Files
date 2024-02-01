@@ -3,7 +3,7 @@
 DS2000 Spring 2022
 Benjamin Teixeira
     
-Filename: planets.py
+Filename: calculating_planet_distance.py
     
 Description: Calculating the distance between the sun and 
 2 given planet using the Euclidean Distance method
