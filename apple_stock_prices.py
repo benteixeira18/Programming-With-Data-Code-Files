@@ -3,7 +3,7 @@
 DS2000 Spring 2022
 Benjamin Teixeira
     
-Filename: prices.py
+Filename: apple_stock_prices.py
     
 Description: Plotting Apple's opening and closing stock prices
     
