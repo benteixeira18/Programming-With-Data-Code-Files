@@ -3,7 +3,7 @@
 DS2000 Spring 2022
 Benjamin Teixeira
     
-Filename: salary.py
+Filename: nba_salary_report.py
     
 Description: reporting and determining favored 
 NBA team based on historical salaries
