@@ -3,7 +3,7 @@
 DS2001 Spring 2022 Weekly Exercise
 Benjamin Teixeira
     
-Filename: twitter.py
+Filename: twitter_sentiment.py
     
 Description: sentiment analysis of twitter users
 
