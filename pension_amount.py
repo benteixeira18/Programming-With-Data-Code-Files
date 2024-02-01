@@ -3,7 +3,7 @@
 DS2001 Weekly Exercise 2
 Benjamin Teixeira
     
-Filename: week2.py
+Filename: pension_amount.py
     
 Description: calculating pension amount
     
